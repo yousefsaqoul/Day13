@@ -1,0 +1,52 @@
+/* font-family: 'Playfair Display', serif;
+font-family: 'Poppins', sans-serif; */
+
+body {
+    background: rgba(238, 240, 225) ;
+
+    height: 100vh;
+}
+
+ 
+section div img {
+    width: 50%;
+    height: 50%;
+    position: relative;
+    left: 50%;
+    bottom: 0%;
+} 
+.look h1:nth-of-type(1){
+    font-family: 'Playfair Display', serif;
+    font-size: 50px;
+    position: absolute;
+    top: 17%;
+    left: 12%;
+}
+.look h1:nth-of-type(2){
+    font-family: 'Playfair Display', serif;
+    font-size: 50px;
+    position: absolute;
+    top: 28%;
+    left: 12%;
+}
+.look h3 {
+    font-family: 'Poppins', sans-serif; 
+    font-size: 20px;
+    position: absolute;
+    right: 52%;
+    bottom: 36%;
+    left: 12%;
+
+}
+.look h2 {
+    border-radius: 70px;
+    background: rgba(255, 170, 0) ;
+    position: absolute;
+    bottom: 20%;
+    left: 12%;
+    font-family: 'Poppins', sans-serif; 
+    padding: 10px 80px;
+    
+
+
+}
